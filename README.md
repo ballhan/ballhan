@@ -1,5 +1,7 @@
 <h2> Hi, I'm Bohan</h2>
 
+<h3>I am an experienced Full Stack Developer. I graduated from the University of Waterloo with a degree in Bachelor of Science.</h3>
+
 - 💻 &nbsp; JavaScript/TypeScript | Java | Python | HTML | CSS | Bash | SQL | GraphQL
 
-- 🔧 &nbsp; Aurelia | React | React-admin | Vue | Angular | Docker | AWS | CircleCI | Git | REST | MariaDB | Auth0 | Kibana | HAProxy | Pytest | Deck.gl | Mocha | D3.js | Knex.js | Bootstrap | SASS | Salesforce
+- 🔧 &nbsp; React | Vue | Angular | Docker | AWS | CircleCI | REST | MariaDB | ELK | Pytest | Mocha | Bootstrap
