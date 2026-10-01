@@ -4,4 +4,4 @@
 
 - 💻 &nbsp; JavaScript/TypeScript | Java | Python | HTML | CSS | Bash | SQL | GraphQL
 
-- 🔧 &nbsp; React | Vue | Angular | Docker | AWS | CircleCI | REST | MariaDB | ELK | Pytest | Mocha | Bootstrap
+- 🔧 &nbsp; React Native | React | Vue | Angular | Docker | AWS | ELK
